@@ -9,7 +9,11 @@ A Flutter app that helps a campus or organization manage lost and found items. U
 
 ## Demo
 
-▶️ [Watch the demo](https://youtu.be/SpnijFD44js)
+<a href="https://youtu.be/SpnijFD44js">
+  <img src="https://img.youtube.com/vi/SpnijFD44js/maxresdefault.jpg" width="600">
+</a>
+
+*Click the thumbnail above to watch the app in action or click here* ▶️ [Watch the demo](https://youtu.be/SpnijFD44js)
 
 ## Features
 
