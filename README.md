@@ -21,7 +21,7 @@ A Flutter app that helps a campus or organization manage lost and found items. U
 - Browse all reported lost & found items with photo, name, description, location, and report date
 - Live-updating item list backed by Cloud Firestore
 
-**For admins (authenticated):**
+**For admins (authenticated) Dashboard:**
 - Secure admin login with Firebase Authentication
 - Add new found items with photo upload, name, description, and location
 - Edit or delete existing item listings
